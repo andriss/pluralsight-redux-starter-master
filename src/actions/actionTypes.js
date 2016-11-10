@@ -1,0 +1,1 @@
+export const LOAD_IDEAS_SUCC = 'LOAD_IDEAS_SUCC';
